@@ -1,7 +1,6 @@
 ## 2021.5
 
 - 捐赠功能增加 [BNB](https://coinmarketcap.com/zh/currencies/binance-coin/)([币安BSC](https://github.com/binance-chain/whitepaper/blob/master/WHITEPAPER.md))，[MATIC](https://coinmarketcap.com/zh/currencies/polygon/)([Polygon](https://polygon.technology/)) 支持。[捐赠地址](https://cblb.app/donation)
-- 
 
 ## 2021.4
 
