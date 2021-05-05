@@ -1,3 +1,8 @@
+## 2021.5
+
+- 捐赠功能增加 [BNB](https://coinmarketcap.com/zh/currencies/binance-coin/)([币安BSC](https://github.com/binance-chain/whitepaper/blob/master/WHITEPAPER.md))，[MATIC](https://coinmarketcap.com/zh/currencies/polygon/)([Polygon](https://polygon.technology/)) 支持。[捐赠地址](https://cblb.app/donation)
+- 
+
 ## 2021.4
 
 - 重制`事件面板`
@@ -6,7 +11,7 @@
 ## 2021.3
 
 - 增加EVA 0号机配色主题，致敬EVA《新·福音战士剧场版：终》上映
-- 丰富数据章节，增加coin360.com面板
+- 丰富[数据章节](https://cblb.app/data/token)，增加coin360.com面板
 - 制定slogan：**cblb.app，一个好用又没什么用的Dapp**
 
 
@@ -20,11 +25,11 @@
 
 ## 2021.1
 
-- 实现`开发进展`模块
+- 实现[开发进展](https://cblb.app/data/progress)模块
 
 ## 2020.9 - 2020.12 
 
-- 序章内容
+- [序章内容](https://cblb.app/prologue)
 - 主题切换
 - 捐助功能
 - dapp基础结构
