@@ -1,5 +1,6 @@
 ## 2021.6
-
+- 修改主题:银河主题风格
+    - 当前背景视频：[Youtube - Deep Space](https://www.youtube.com/watch?v=4oY3v0jAWr4)
 - 增加背景视频功能，修改主题为back to 80s主题风格
     - 当前背景视频：[Youtube - Nostalgia Drive - A Nostalgic Synthwave / Chillwave / Retrowave mix](https://www.youtube.com/watch?v=Ek4IRwHBqyo)
 
