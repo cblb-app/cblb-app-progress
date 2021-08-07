@@ -1,3 +1,6 @@
+## 2021.8
+- 移除`事件面板`和`cblb-events-data`github仓库
+
 ## 2021.6
 - 修改主题:银河主题风格
     - 当前背景视频：[Youtube - Deep Space](https://www.youtube.com/watch?v=4oY3v0jAWr4)
