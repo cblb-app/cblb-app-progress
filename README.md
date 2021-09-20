@@ -1,3 +1,8 @@
+## 2021.9
+
+- 增加背景视频静音控制
+- 更新背景视频，[面向程序员、创作者、设计师的富有成效的音乐。夜间密码](https://www.youtube.com/watch?v=4pcNRDx6KrE)
+
 ## 2021.8
 
 - 移除`事件面板`和`cblb-events-data`github 仓库
