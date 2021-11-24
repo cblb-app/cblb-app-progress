@@ -3,6 +3,7 @@
 ## 2021.11
 
 - 设计 CBLB token model，[模型 github 仓库](https://github.com/cblb-app/cblb-token-model)
+- 添加[监督模块](https://cblb.app/supervise/progress)
 
 ## 2021.9
 
