@@ -1,5 +1,11 @@
 # cblb.app 开发进展
 
+## 2022.1
+
+- 从节省交互费用角度，在 Polygon 和 Ethereum 中选择了 Polygon 作为 cblb.app 功能实现所依赖的区块链
+- 在 Polygon 发行[CBLB](https://polygonscan.com/token/0x7a45922F95C845Ff9bE01112AfCF207968a9cA0B)，可 mint，无发行上限
+- 更新[监督模块](https://cblb.app/supervise/cblb-token-info)
+
 ## 2021.11
 
 - 设计 CBLB token model，[模型 github 仓库](https://github.com/cblb-app/cblb-token-model)
