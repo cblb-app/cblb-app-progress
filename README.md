@@ -7,6 +7,8 @@
 - 在 Polygon 部署[CBLB 签到合约](https://polygonscan.com/address/0x15942E96becA7fA6081740dFB74D7702ec2C3B88)
 - 设计[CBLB 签到玩法](https://cblb.app/supervise/cblb-check-in)
 - 更新[监督模块](https://cblb.app/supervise/progress)
+- 发布文章[Cblb 签到玩法和使用者分析](https://github.com/cblb-app/cblb-articles/blob/master/analysis/cblb-checkin-users-analysis.md)
+- 重制 cblb.app 品牌[logo](https://github.com/cblb-app/cblb-token-info/blob/master/media/cblb-logo-512-512.png)
 
 ## 2021.11
 
