@@ -1,7 +1,5 @@
 # Cblb.app 开发进展
 
-# 2022
-
 ## 2022.1
 
 - 从节省交互费用角度，在 Polygon 和 Ethereum 中选择了 Polygon 作为 cblb.app 功能实现所依赖的区块链
@@ -12,10 +10,7 @@
 - 发布文章[Cblb 签到玩法和使用者分析](https://github.com/cblb-app/cblb-articles/blob/master/analysis/cblb-checkin-users-analysis.md)
 - 重制 cblb.app 品牌[logo](https://github.com/cblb-app/cblb-token-info/blob/master/media/cblb-logo-512-512.png)
 
-# 2021
+## Previous
 
-- [2021 progress archive](https://github.com/cblb-app/cblb-app-progress/blob/master/2021/README.md)
-
-# 2020
-
-- [2020 progress archive](https://github.com/cblb-app/cblb-app-progress/tree/master/2020)
+- [2021 progress](https://github.com/cblb-app/cblb-app-progress/blob/master/2021/README.md)
+- [2020 progress](https://github.com/cblb-app/cblb-app-progress/tree/master/2020)
