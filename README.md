@@ -3,6 +3,7 @@
 ## 2022.2
 
 - 实现[排行榜](https://cblb.app/ranking)功能
+- 在[CBLB 代币信息](https://cblb.app/supervise/cblb-token-info)页面增加[Arken Widget](https://docs.arken.finance/arken-finance/integrating-with-arken-finance/arken-widgets)
 
 ## 2022.1
 
