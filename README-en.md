@@ -4,7 +4,7 @@
 
 - List [CBLB](https://polygonscan.com/token/0x7a45922F95C845Ff9bE01112AfCF207968a9cA0B) on Polygonscan
 - Implement [Ranking](https://cblb.app/ranking) function
-- Added [Arken Widget](https://docs.arken.finance/arken-finance/integrating-with- arken-finance/arken-widgets)
+- Added [Arken Widget](https://docs.arken.finance/arken-finance/integrating-with-arken-finance/arken-widgets)
 
 ## 2022.1
 
