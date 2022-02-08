@@ -19,5 +19,5 @@
 
 ## Previous
 
-- [2021 progress](https://github.com/cblb-app/cblb-app-progress/blob/master/2021/README.md)
-- [2020 progress](https://github.com/cblb-app/cblb-app-progress/tree/master/2020)
+- [2021 progress](https://github.com/cblb-app/cblb-app-progress/blob/master/2021/README-zh.md)
+- [2020 progress](https://github.com/cblb-app/cblb-app-progress/blob/master/2020/README-zh.md)
