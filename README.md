@@ -2,6 +2,7 @@
 
 ## 2022.2
 
+- List CBLB token information on [arken.finance](https://swap.arken.finance/tokens/polygon/0x7a45922f95c845ff9be01112afcf207968a9ca0b)
 - [CBLB's first airdrop event is here](https://github.com/cblb-app/cblb-articles/blob/master/2022/cblb-airdrop-en.md)
 - List [CBLB](https://polygonscan.com/token/0x7a45922F95C845Ff9bE01112AfCF207968a9cA0B) on Polygonscan
 - Implement [Ranking](https://cblb.app/ranking) function

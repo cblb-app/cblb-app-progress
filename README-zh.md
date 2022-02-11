@@ -2,6 +2,7 @@
 
 ## 2022.2
 
+- [arken.finance](https://swap.arken.finance/tokens/polygon/0x7a45922f95c845ff9be01112afcf207968a9ca0b) 收录 CBLB 代币信息
 - [CBLB 首次空投活动](https://github.com/cblb-app/cblb-articles/blob/master/2022/cblb-airdrop-zh.md)
 - Polygonscan 收录 [CBLB](https://polygonscan.com/token/0x7a45922F95C845Ff9bE01112AfCF207968a9cA0B)
 - 实现[排行榜](https://cblb.app/ranking)功能
