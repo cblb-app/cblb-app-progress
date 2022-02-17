@@ -4,7 +4,7 @@
 
 - Implement [articles and announcement](https://cblb.app/publish/articles) modules
 - Implement the twitter sharing function on cblb.app
-- Develop and open source [CBLB contract event parser](https://github.com/cblb-app/cblb-event-parse-website)
+- Develop and open source [CBLB contract event parser](https://github.com/cblb-app/cblb-event-parser)
 - [CBLB's first airdrop event is here](https://github.com/cblb-app/cblb-articles/blob/master/2022/cblb-airdrop-en.md)
 - List [CBLB](https://polygonscan.com/token/0x7a45922F95C845Ff9bE01112AfCF207968a9cA0B) on Polygonscan
 - Implement [Ranking](https://cblb.app/ranking) function
