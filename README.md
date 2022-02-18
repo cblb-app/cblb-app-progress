@@ -2,6 +2,7 @@
 
 ## 2022.2
 
+- Start [Cblb Pangu Metaverse](https://cblb.app/pangu)
 - Implement [articles and announcement](https://cblb.app/publish/articles) modules
 - Implement the twitter sharing function on cblb.app
 - Develop and open source [CBLB contract event parser](https://github.com/cblb-app/cblb-event-parser)

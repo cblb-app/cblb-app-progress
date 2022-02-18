@@ -2,6 +2,7 @@
 
 ## 2022.2
 
+- 启动[Cblb 盘古元宇宙](https://cblb.app/pangu)
 - 实现[文章和公告](https://cblb.app/publish/articles)模块
 - 实现 cblb.app 上的 twitter 分享功能
 - 开发并开源[CBLB 合约事件 parser](https://github.com/cblb-app/cblb-event-parser)
