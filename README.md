@@ -2,7 +2,8 @@
 
 ## 2022.2
 
-- Start [Cblb Pangu Metaverse](https://cblb.app/pangu)
+- Design the Cblb Pangu metaverse model texture as a 3D display scheme for advertising elements, and set the [Cblb-pangu-profile](https://github.com/cblb-app/cblb-pangu-profile) Github repository as the data source
+- Start [Cblb Pangu Metaverse](https://cblb.app/pangu) development
 - Implement [articles and announcement](https://cblb.app/publish/articles) modules
 - Implement the twitter sharing function on cblb.app
 - Develop and open source [CBLB contract event parser](https://github.com/cblb-app/cblb-event-parser)

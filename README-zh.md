@@ -2,7 +2,8 @@
 
 ## 2022.2
 
-- 启动[Cblb 盘古元宇宙](https://cblb.app/pangu)
+- 设计 Cblb 盘古元宇宙模型贴图作为广告元素的 3D 展示方案，设置[Cblb-pangu-profile](https://github.com/cblb-app/cblb-pangu-profile) Github 仓库作为数据源
+- 启动[Cblb 盘古元宇宙](https://cblb.app/pangu)开发
 - 实现[文章和公告](https://cblb.app/publish/articles)模块
 - 实现 cblb.app 上的 twitter 分享功能
 - 开发并开源[CBLB 合约事件 parser](https://github.com/cblb-app/cblb-event-parser)
