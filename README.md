@@ -1,5 +1,9 @@
 # Cblb.app development progress
 
+## 2022.3
+
+- Realize the function [chart](https://cblb.app/supervise/cblb-check-in) of Cblb check-in times and CBLB token acquisition Torricelli trumpet model
+
 ## 2022.2
 
 - Design the Cblb Pangu metaverse model texture as a 3D display scheme for advertising elements, and set the [Cblb-pangu-profile](https://github.com/cblb-app/cblb-pangu-profile) Github repository as the data source

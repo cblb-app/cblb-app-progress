@@ -1,5 +1,9 @@
 # Cblb.app 开发进展
 
+## 2022.3
+
+- 实现 Cblb 签到人次和 CBLB 代币获取托里拆利小号模型函数[图表](https://cblb.app/supervise/cblb-check-in)
+
 ## 2022.2
 
 - 设计 Cblb 盘古元宇宙模型贴图作为广告元素的 3D 展示方案，设置[Cblb-pangu-profile](https://github.com/cblb-app/cblb-pangu-profile) Github 仓库作为数据源
