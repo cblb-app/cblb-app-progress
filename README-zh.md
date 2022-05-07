@@ -1,5 +1,9 @@
 # Cblb.app 开发进展
 
+## 2022.5
+
+- 发布[cblb-miner-cli](https://github.com/cblb-app/cblb-miner-cli)
+
 ## 2022.3
 
 - 实现 Cblb 签到人次和 CBLB 代币获取托里拆利小号模型函数[图表](https://cblb.app/supervise/cblb-check-in)

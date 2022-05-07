@@ -1,5 +1,9 @@
 # Cblb.app development progress
 
+## 2022.5
+
+- Release [cblb-miner-cli](https://github.com/cblb-app/cblb-miner-cli)
+
 ## 2022.3
 
 - Realize the function [chart](https://cblb.app/supervise/cblb-check-in) of Cblb check-in times and CBLB token acquisition Torricelli trumpet model
