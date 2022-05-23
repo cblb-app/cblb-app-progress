@@ -3,6 +3,7 @@
 ## 2022.5
 
 - 发布[cblb-miner-cli](https://github.com/cblb-app/cblb-miner-cli)
+- [改版信息公示页](https://cblb.app/supervise/cblb-token-info)
 
 ## 2022.3
 

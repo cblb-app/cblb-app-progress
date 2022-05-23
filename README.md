@@ -3,6 +3,7 @@
 ## 2022.5
 
 - Release [cblb-miner-cli](https://github.com/cblb-app/cblb-miner-cli)
+- [Revised Information Announcement Page](https://cblb.app/supervise/cblb-token-info)
 
 ## 2022.3
 
