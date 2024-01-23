@@ -2,6 +2,7 @@
 
 ## 2024.1
 
+- Updated color matching to suit the occasion @2024.1.23
 - Update the homepage display content and remove Frens that have been lost for several months.
 
 ## Previous
